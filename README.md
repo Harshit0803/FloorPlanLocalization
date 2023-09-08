@@ -31,8 +31,21 @@
 
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/35654757-1905-400e-bc42-7a646b7a448e)
 
+<a href="#" style="float: right;"> <!-- An anchor tag with a right float style -->
+| Starting Point (X) | Starting Point (Y) | End Point (X) | End Point (Y) |
+| ------------------- | ------------------- | -------------- | -------------- |
+| 198                 | 135                 | 155            | 470            |
+| 225                 | 465                 | 155            | 470            |
+| 8                   | 131                 | 155            | 470            |
+| 220                 | 133                 | 175            | 75             |
+| 266                 | 382                 | 175            | 75             |
+| 10                  | 255                 | 175            | 75             |
+| 219                 | 490                 | 175            | 75             |
+| 170                 | 135                 | 219            | 490            |
+| 268                 | 219                 | 219            | 490            |
+| 8                   | 415                 | 219            | 490            |
 
-
+</a>
 
 
 
