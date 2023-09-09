@@ -10,13 +10,12 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 
 <figure>
   <img src="assets/wm7.png" alt="Image 1">
-  <figcaption>Image 1: Description for Image 1.</figcaption>
 </figure>
 
 <p align="middle">
-  ![Image 2: Description for Image 2.](assets/WLC_PCL.png)
-  ![Image 3: Description for Image 3.](assets/LC_PCL.png)
-  ![Image 4: Description for Image 4.](assets/LC_SPCL.png)
+  <img src="assets/WLC_PCL.png" width="200" height="400"/>
+  <img src="assets/LC_PCL.png" width="200" height="400"/> 
+  <img src="assets/LC_SPCL.png" width="200" height="400"/>
 </p>
                                                                                                                                                            
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
