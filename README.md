@@ -6,11 +6,9 @@
 A novel methodology is developed to navigate an agent (e.g., a robot or a visually impaired person) to target locations specified in an *a priori* architectural floor plan starting from unknown locations. An active global localization method is proposed to create semantically aware *a priori* map based real-time goals for the agent to safely and intelligently explore the local environment while simultaneously constructing a semantic point cloud (SPCL) to globally localize the agent. The agent navigates to the target on successful localization by planning the shortest path from the estimated current location. Furthermore, a method is proposed to dynamically correct the time-varying odometry drift without knowing the global pose of the agent. The efficacy of the proposed algorithm is shown by conducting experiments in an indoor environment.
 </div>
 
-<p align="middle">
-  <img src="assets/Floor Plan.png" width="200" height="350" />
-  <img src="assets/point_cloud.gif" width="300" height="350" />
-  <img src="assets/semantic_cloud.gif" width="300" height="350" />
-</p>
+| Floor Plan                   | Point Cloud                 | Semantic Cloud              |
+| :---------------------------:| :--------------------------:| :--------------------------:|
+| ![Floor Plan](assets/Floor Plan.png)  | ![Point Cloud](assets/point_cloud.gif)  | ![Semantic Cloud](assets/semantic_cloud.gif)  |
 
 
 ## TEST BLOCK                                                                                                                                                           
