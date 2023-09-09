@@ -7,7 +7,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 </div>
 
 <figure>
-  <img src="assets/wm7.png" alt="Image 1">
+  <img src="assets/Floor Plan.png" alt="Image 1">
 </figure>
 
 
