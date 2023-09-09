@@ -14,7 +14,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 
 <p align="middle">
   <img src="assets/WLC_PCL.png" width="200" height="400"/>
-  <img src="assets/LC_PCL.png" width="200" height="400"/> 
+  <img src="assets/LC_PCL.png" width="200" height="400"/>
   <img src="assets/LC_SPCL.png" width="200" height="400"/>
 </p>
                                                                                                                                                            
