@@ -9,7 +9,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | Floor Plan                   | Point Cloud                 | Semantic Cloud              |
 | :---------------------------:| :--------------------------:| :--------------------------:|
 | ![Floor Plan](assets/Floor_Plan.png)  | ![Point Cloud](assets/point_cloud.gif)  | ![Semantic Cloud](assets/semantic_cloud.gif)  |
-| <sub>Width: 400px<br>Height: 700px</sub> | <sub>Leave dimensions as they are</sub> | <sub>Leave dimensions as they are</sub> |
+| <sub>Width: 600px<br>Height: 1000px</sub> | <sub>Leave dimensions as they are</sub> | <sub>Leave dimensions as they are</sub> |
 
 
 ## TEST BLOCK                                                                                                                                                           
