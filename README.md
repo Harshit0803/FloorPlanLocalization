@@ -8,7 +8,27 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 
 ## 📃 Preliminaries
 
+<figure>
+  <img src="assets/wm7.png" alt="Image 1">
+  <figcaption>Image 1: Description for the first image.</figcaption>
+</figure>
 
+<div style="display: flex; flex-direction: row;">
+  <figure style="flex: 1; padding: 5px;">
+    <img src="assets/WLC_PCL.png" alt="Image 2">
+    <figcaption>Image 2: Description for the second image.</figcaption>
+  </figure>
+
+  <figure style="flex: 1; padding: 5px;">
+    <img src="assets/LC_PCL.png" alt="Image 3">
+    <figcaption>Image 3: Description for the third image.</figcaption>
+  </figure>
+
+  <figure style="flex: 1; padding: 5px;">
+    <img src="assets/LC_SPCL.png" alt="Image 4">
+    <figcaption>Image 4: Description for the fourth image.</figcaption>
+  </figure>
+</div>
                                                                                                                                                            
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
 
