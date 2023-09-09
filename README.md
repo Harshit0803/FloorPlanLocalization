@@ -1,6 +1,6 @@
 <!--# FloorPlanLocalization-->
 # Real-Time Visually Assisted System for Indoor Localization and Navigation From Unknown Start Locations
-# 📄 Abstract
+## 📄 Abstract
 <div align="justify">
 A novel methodology is developed to navigate an agent (e.g., a robot or a visually impaired person) to target locations specified in an *a priori* architectural floor plan starting from unknown locations. An _active global localization_ method is proposed to create semantically aware *a priori* map based real-time goals for the agent to safely and intelligently explore the local environment while simultaneously constructing a semantic point cloud (SPCL) to globally localize the agent. The agent navigates to the target on successful localization by planning the shortest path from the estimated current location. Furthermore, a method is proposed to dynamically correct the time-varying odometry drift without knowing the global pose of the agent. The efficacy of the proposed algorithm is shown by conducting experiments in an indoor environment.
 </div>
