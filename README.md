@@ -1,4 +1,5 @@
-# FloorPlanLocalization
+<!--# FloorPlanLocalization-->
+# Real-Time Visually Assisted System for Indoor Localization and Navigation From Unknown Start Locations
                                                                                                                   
                                                                                                                   
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
