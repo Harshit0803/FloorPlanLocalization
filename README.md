@@ -7,9 +7,9 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 </div>
 
 <p align="middle">
-  <img src="assets/Floor Plan.png" width="200" height="350" />
-  <img src="assets/point_cloud.gif" width="200" height="350" />
-  <img src="assets/semantic_cloud.gif" width="200" height="350" />
+  <img src="assets/Floor Plan.png" width="300" height="350" />
+  <img src="assets/point_cloud.gif" width="300" height="350" />
+  <img src="assets/semantic_cloud.gif" width="300" height="350" />
 </p>
 
 
