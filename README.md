@@ -15,17 +15,17 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 
 <div style="display: flex; flex-direction: row;">
   <figure style="flex: 1;">
-    <img src="assets/WLC_PCL.png" alt="Image 2" width="200">
+    <img src="assets/WLC_PCL.png" alt="Image 2" width="100">
     <figcaption>Image 2: Description for the second image.</figcaption>
   </figure>
 
   <figure style="flex: 1;">
-    <img src="assets/LC_PCL.png" alt="Image 3" width="200">
+    <img src="assets/LC_PCL.png" alt="Image 3" width="100">
     <figcaption>Image 3: Description for the third image.</figcaption>
   </figure>
 
   <figure style="flex: 1;">
-    <img src="assets/LC_SPCL.png" alt="Image 4" width="200">
+    <img src="assets/LC_SPCL.png" alt="Image 4" width="100">
     <figcaption>Image 4: Description for the fourth image.</figcaption>
   </figure>
 </div>
