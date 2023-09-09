@@ -8,7 +8,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 
 | Floor Plan                   | Point Cloud                 | Semantic Cloud              |
 | :---------------------------:| :--------------------------:| :--------------------------:|
-| ![Floor Plan](assets/Floor Plan.png)  | ![Point Cloud](assets/point_cloud.gif)  | ![Semantic Cloud](assets/semantic_cloud.gif)  |
+| ![Floor Plan](assets/Floor_Plan.png)  | ![Point Cloud](assets/point_cloud.gif)  | ![Semantic Cloud](assets/semantic_cloud.gif)  |
 
 
 ## TEST BLOCK                                                                                                                                                           
