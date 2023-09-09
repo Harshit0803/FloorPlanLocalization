@@ -17,7 +17,8 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
   <img src="assets/LC_PCL.png" width="200" height="400"/>
   <img src="assets/LC_SPCL.png" width="200" height="400"/>
 </p>
-                                                                                                                                                           
+
+## TEST BLOCK                                                                                                                                                           
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
 
 *Figure 1: Basement FloorMap for Ground Truth*
