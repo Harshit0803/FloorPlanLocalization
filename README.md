@@ -22,14 +22,12 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | Random coin toss   | 15.03                    | 13.96                     | 17.62                         | 15.66                      |
 | Our method         | 11.27                    | 9.31                      | 13.25                         | 10.36                      |
 
-<center>
 | Method                 | Distance travelled (Mean) | Distance travelled (Std) |
 |------------------------|---------------------------|--------------------------|
 | Min. possible distance | -                         | -                        |
 | Left wall follower     | 52.03                     | 20.88                    |
 | Random coin toss       | 51.19                     | 21.78                    |
 | Our method             | 44.97                     | 20.20                    |
-</center>
 
 ## TEST BLOCK                                                                                                                                                           
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
