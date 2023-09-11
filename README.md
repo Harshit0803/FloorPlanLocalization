@@ -37,6 +37,13 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | No Drift Correction | 4.1 | 13.5 | - | - | - | - |
 | Path to Target | 16 | 3.8 | 40.4 | 9.5 | 20.3 | 18 |
 
+|             | $R_1$ | $R_2$ | $R_3$ | $R_4$ | $R_5$ | Avg. |
+|-------------|-------|-------|-------|-------|-------|------|
+| Our method  | 36.6  | 55.3  | 68.7  | 26.4  | 41.8  | 45.7 |
+| No Loop Closure | 47.2 | 58.5 | 76.4 | 21.5 | 72.8 | 55.3 |
+| No Drift Correction | 36 | 23.2 | - | - | - | - |
+| Path to Target | 16.5 | 60.2 | 64.7 | 17.4 | 44.5 | 40.6 |
+
 ## TEST BLOCK                                                                                                                                                           
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
 
