@@ -29,6 +29,14 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | Random coin toss       | 51.19                     | 21.78                    |
 | Our method             | 44.97                     | 20.20                    |
 
+## 📑 Abalation Study
+|             | $R_1$ | $R_2$ | $R_3$ | $R_4$ | $R_5$ | Avg. |
+|-------------|-------|-------|-------|-------|-------|------|
+| Our method  | 4.9   | 4.1   | 18.1  | 16.4  | 9.4   | 10.6 |
+| No Loop Closure | 5.8 | 4.4 | 22 | 15.5 | 15.2 | 12.6 |
+| No Drift Correction | 4.1 | 13.5 | - | - | - | - |
+| Path to Target | 16 | 3.8 | 40.4 | 9.5 | 20.3 | 18 |
+
 ## TEST BLOCK                                                                                                                                                           
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
 
