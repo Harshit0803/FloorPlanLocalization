@@ -16,7 +16,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | <img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" /> | <img src="assets/PlotColorBasement.png" alt="Enviroment 2" width="500" height="500" />  |
 
  :--:
-|10 Unit = 1 m|
+10 Unit = 1 m
  :--:
 
 ## TEST BLOCK                                                                                                                                                           
