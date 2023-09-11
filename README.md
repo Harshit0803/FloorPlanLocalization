@@ -11,10 +11,10 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | <img src="assets/Floor_Plan.png" alt="Floor Plan" style="width: 600px; height: 400px;" /> | <img src="assets/point_cloud.gif" width="275" height="350" />  | <img src="assets/semantic_cloud.gif" width="275" height="350" />  |
 
 ## 📊 Results
+### Experiment paths ($10$ units $=$ $1$ m)
 | Enviroment 1                         | Enviroment 2                 |
 | :--------------------------------:| :--------------------------:|
 | <img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" /> | <img src="assets/PlotColorBasement.png" alt="Enviroment 2" width="500" height="500" />  |
-|*10 Unit = 1 m*| *10 Unit = 1 m*|
 
 ### Mean and standard deviation of the distance traveled (meters) for successful localization
 | Method             | Candidate creation (Mean) | Candidate creation (Std) | Candidate confirmation (Mean) | Candidate confirmation (Std) |
