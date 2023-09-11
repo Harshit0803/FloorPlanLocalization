@@ -16,12 +16,14 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | <img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" /> | <img src="assets/PlotColorBasement.png" alt="Enviroment 2" width="500" height="500" />  |
 |*10 Unit = 1 m*| *10 Unit = 1 m*|
 
+### Mean and standard deviation of the distance traveled (meters) for successful localization
 | Method             | Candidate creation (Mean) | Candidate creation (Std) | Candidate confirmation (Mean) | Candidate confirmation (Std) |
 |--------------------|--------------------------|---------------------------|-------------------------------|----------------------------|
 | Left wall follower | 13.25                    | 10.55                     | 15.64                         | 11.63                      |
 | Random coin toss   | 15.03                    | 13.96                     | 17.62                         | 15.66                      |
 | Our method         | 11.27                    | 9.31                      | 13.25                         | 10.36                      |
 
+### Mean and standard deviation of the distance traveled (meters) from start to target
 | Method                 | Distance travelled (Mean) | Distance travelled (Std) |
 |------------------------|---------------------------|--------------------------|
 | Min. possible distance | -                         | -                        |
@@ -30,6 +32,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | Our method             | 44.97                     | 20.20                    |
 
 ## 📑 Abalation Study
+### Distance traveled for localization (in meters)
 |             | $R_1$ | $R_2$ | $R_3$ | $R_4$ | $R_5$ | Avg. |
 |-------------|-------|-------|-------|-------|-------|------|
 | Our method  | 4.9   | 4.1   | 18.1  | 16.4  | 9.4   | 10.6 |
@@ -37,6 +40,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | No Drift Correction | 4.1 | 13.5 | - | - | - | - |
 | Path to Target | 16 | 3.8 | 40.4 | 9.5 | 20.3 | 18 |
 
+### Distance traveled for overall navigation (in meters)
 |             | $R_1$ | $R_2$ | $R_3$ | $R_4$ | $R_5$ | Avg. |
 |-------------|-------|-------|-------|-------|-------|------|
 | Our method  | 36.6  | 55.3  | 68.7  | 26.4  | 41.8  | 45.7 |
