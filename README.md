@@ -10,6 +10,11 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | :--------------------------------:| :--------------------------:| :--------------------------:|
 | <img src="assets/Floor_Plan.png" alt="Floor Plan" style="width: 600px; height: 400px;" /> | <img src="assets/point_cloud.gif" width="275" height="350" />  | <img src="assets/semantic_cloud.gif" width="275" height="350" />  |
 
+## 📊 Results
+| Enviroment 1                         | Enviroment 2                 |
+| :--------------------------------:| :--------------------------:|
+| <img src="assets/Floor_Plan.png" alt="Floor Plan" style="width: 600px; height: 400px;" /> | <img src="assets/point_cloud.gif" width="275" height="350" />  |
+
 
 ## TEST BLOCK                                                                                                                                                           
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
