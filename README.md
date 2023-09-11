@@ -14,10 +14,8 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | Enviroment 1                         | Enviroment 2                 |
 | :--------------------------------:| :--------------------------:|
 | <img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" /> | <img src="assets/PlotColorBasement.png" alt="Enviroment 2" width="500" height="500" />  |
-
- :--:
 10 Unit = 1 m
- :--:
+
 
 ## TEST BLOCK                                                                                                                                                           
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
