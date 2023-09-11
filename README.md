@@ -13,7 +13,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 ## 📊 Results
 | Enviroment 1                         | Enviroment 2                 |
 | :--------------------------------:| :--------------------------:|
-| <img src="assets/Floor_Plan.png" alt="Floor Plan" style="width: 600px; height: 400px;" /> | <img src="assets/point_cloud.gif" width="275" height="350" />  |
+| <img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" /> | <img src="assets/PlotColorBasement.png" alt="Enviroment 2" width="500" height="500" />  |
 
 
 ## TEST BLOCK                                                                                                                                                           
