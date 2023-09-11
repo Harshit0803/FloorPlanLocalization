@@ -16,6 +16,13 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 | <img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" /> | <img src="assets/PlotColorBasement.png" alt="Enviroment 2" width="500" height="500" />  |
 |*10 Unit = 1 m*| *10 Unit = 1 m*|
 
+| Method             | Candidate creation (Mean) | Candidate creation (Std) | Candidate confirmation (Mean) | Candidate confirmation (Std) |
+|--------------------|--------------------------|---------------------------|-------------------------------|----------------------------|
+| Left wall follower | 13.25                    | 10.55                     | 15.64                         | 11.63                      |
+| Random coin toss   | 15.03                    | 13.96                     | 17.62                         | 15.66                      |
+| Our method         | 11.27                    | 9.31                      | 13.25                         | 10.36                      |
+
+
 
 ## TEST BLOCK                                                                                                                                                           
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
