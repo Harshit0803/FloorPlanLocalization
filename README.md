@@ -55,7 +55,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 
 <a href="#" style="float: right;"> <!-- An anchor tag with a right float style -->
 
-| Index | Starting Point (X) | Starting Point (Y) | End Point (X) | End Point (Y) | Candidate Distance | Candidate Creation |
+| Index | Starting Point (X) | Starting Point (Y) | End Point (X) | End Point (Y) | Candidate Creation | Candidate Confirmation |
 | ----- | ------------------- | ------------------- | -------------- | -------------- | ------------------ | ------------------ |
 | 1     | 95                  | 390                 | 10             | 270            | 9.13              | 28.89            |
 | 2     | 250                 | 77                  | 10             | 270            | 39.58             | 79.75            |
@@ -87,7 +87,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 
 <a href="#" style="float: right;"> <!-- An anchor tag with a right float style -->
 
-| Index | Starting Point (X) | Starting Point (Y) | End Point (X) | End Point (Y) | Candidate Distance | Candidate Creation |
+| Index | Starting Point (X) | Starting Point (Y) | End Point (X) | End Point (Y) | Candidate Creation | Candidate Confirmation |
 | ----- | ------------------- | ------------------- | -------------- | -------------- | ------------------ | ------------------ |
 | 1     | 198                 | 135                 | 155            | 470            | 7.24              | 29.31            |
 | 2     | 225                 | 465                 | 155            | 470            | 6.01              | 28.36            |
