@@ -57,7 +57,7 @@ A novel methodology is developed to navigate an agent (e.g., a robot or a visual
 
 | Index | Starting Point (X) | Starting Point (Y) | End Point (X) | End Point (Y) | Candidate Creation | Candidate Confirmation |
 | ----- | ------------------- | ------------------- | -------------- | -------------- | ------------------ | ------------------ |
-| 1     | 95                  | 390                 | 10             | 270            | 9.13              | 28.89            |
+| L_1     | 95                  | 390                 | 10             | 270            | 9.13              | 28.89            |
 | 2     | 250                 | 77                  | 10             | 270            | 39.58             | 79.75            |
 | 3     | 250                 | 250                 | 10             | 270            | 38.77             | 89.17            |
 | 4     | 50                  | 70                  | 10             | 270            | 39.55             | 114.39           |
