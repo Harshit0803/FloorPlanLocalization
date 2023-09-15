@@ -1,5 +1,5 @@
 <!--# FloorPlanLocalization-->
-# Real-Time Visually Assisted System for Indoor Localization and Navigation From Unknown Start Locations
+# Drift-Correcting Active Global Localization with Bi-Directional Loop Closure
 
 ## 📄 Abstract
 <div align="justify">
