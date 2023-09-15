@@ -28,7 +28,7 @@ Floor plan based active global localization refers to the problem of localizing 
 ### Mean and standard deviation of the distance traveled (meters) from start to target
 | Method                 | Distance travelled (Mean) | Distance travelled (Std) |
 |------------------------|---------------------------|--------------------------|
-| Min. possible distance | -                         | -                        |
+| Min. possible distance | 32.92                         | 18.29                        |
 | Left wall follower     | 52.03                     | 20.88                    |
 | Random coin toss       | 51.19                     | 21.78                    |
 | Our method             | 44.97                     | 20.20                    |
