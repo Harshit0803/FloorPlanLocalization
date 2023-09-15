@@ -39,7 +39,7 @@ Floor plan based active global localization refers to the problem of localizing 
 |-------------|-------|-------|-------|-------|-------|------|
 | Our method  | 4.9   | 4.1   | 18.1  | 16.4  | 9.4   | 10.6 |
 | No Loop Closure | 5.8 | 4.4 | 22 | 15.5 | 15.2 | 12.6 |
-| No Drift Correction | 4.1 | 13.5 | - | - | - | - |
+| No Drift Correction | 4.1 | 13.5 | 13.6 | 13.2 | 11.1 | 11.1 |
 | Path to Target | 16 | 3.8 | 40.4 | 9.5 | 20.3 | 18 |
 
 ### Distance traveled for overall navigation (in meters)
