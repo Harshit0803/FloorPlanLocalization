@@ -1,5 +1,5 @@
 <!--# FloorPlanLocalization-->
-# Drift-Correcting Active Global Localization with Bi-Directional Loop Closure
+# Blank Slate Localization: Active Global Localization from Arbitrary Locations using Semantic Floor Plans
 
 ## 📄 Abstract
 <div align="justify">
