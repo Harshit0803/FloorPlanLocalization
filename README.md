@@ -54,7 +54,7 @@ However, most existing methods either assume some {\em a priori} knowledge of th
 ## TEST BLOCK                                                                                                                                                           
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
 
-*Figure 1: Basement FloorMap for Ground Truth*
+*Figure 1: Environment 1 FloorMap*
 
 <a href="#" style="float: right;"> <!-- An anchor tag with a right float style -->
 
@@ -86,7 +86,7 @@ However, most existing methods either assume some {\em a priori} knowledge of th
 
 ![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/35654757-1905-400e-bc42-7a646b7a448e)
                
-*Figure 2: Second Floor FloorMap for Ground Truth*
+*Figure 2: Environment 2 FloorMap*
 
 <a href="#" style="float: right;"> <!-- An anchor tag with a right float style -->
 
