@@ -35,6 +35,7 @@ However, most existing methods either assume some {\em a priori} knowledge of th
 | Our method             | 44.97                     | 20.20                    |
 
 ## 📑 Abalation Study
+$R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables at the end.
 ### Distance traveled for localization (in meters)
 |             | $R_1$ | $R_2$ | $R_3$ | $R_4$ | $R_5$ | Avg. |
 |-------------|-------|-------|-------|-------|-------|------|
