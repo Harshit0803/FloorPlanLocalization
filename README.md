@@ -49,7 +49,7 @@ $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables
 | Path to Target | 16.5 | 60.2 | 64.7 | 17.4 | 44.5 | 40.6 |
 
 ## TEST BLOCK                                                                                                                                                           
-![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/11c71a41-4f3c-4928-ab86-c67ff0c7cd31)  
+<img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" />
 
 *Figure 1: Environment 1 FloorMap*
 
@@ -81,7 +81,7 @@ $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables
 </a>
 
 
-![image](https://github.com/raktimgg/FloorPlanLocalization/assets/139596157/35654757-1905-400e-bc42-7a646b7a448e)
+<img src="assets/PlotColor2ndFloor.png" alt="Enviroment 1" style="width: 500px; height: 500px;" />
                
 *Figure 2: Environment 2 FloorMap*
 
