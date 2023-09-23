@@ -9,9 +9,9 @@ However, most existing methods either assume some {\em a priori} knowledge of th
 
 <img src="assets/flow.png" alt="Floor Plan" style="width: 850px; height: 400px;" />
 
-##| Architectural Floor Plan                         | Point Cloud                 |
-##| :--------------------------------:| :--------------------------:| :--------------------------:|
-##| <img src="assets/Floor_Plan.png" alt="Floor Plan" style="width: 600px; height: 400px;" /> | <img src="assets/point_cloud.gif" width="275" height="350" />  |
+<>| Architectural Floor Plan                         | Point Cloud                 |
+<>| :--------------------------------:| :--------------------------:| :--------------------------:|
+<>| <img src="assets/Floor_Plan.png" alt="Floor Plan" style="width: 600px; height: 400px;" /> | <img src="assets/point_cloud.gif" width="275" height="350" />  |
 
 ## 📊 Results
 ### Experiment paths ($10$ units $=$ $1$ m)
