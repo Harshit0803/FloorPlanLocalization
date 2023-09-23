@@ -10,10 +10,6 @@ However, most existing methods either assume some {\em a priori} knowledge of th
 <img src="assets/flow.png" alt="Floor Plan" style="width: 850px; height: 400px;" />
 
 ## 📊 Results
-### Experiment paths ($10$ units $=$ $1$ m)
-| Enviroment 1                         | Enviroment 2                 |
-| :--------------------------------:| :--------------------------:|
-| <img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" /> | <img src="assets/PlotColor2ndFloor.png" alt="Enviroment 2" width="500" height="500" />  |
 
 ### Mean and standard deviation of the distance traveled (meters) for successful localization
 | Method             | Candidate creation (Mean) | Candidate creation (Std) | Candidate confirmation (Mean) | Candidate confirmation (Std) |
@@ -48,7 +44,8 @@ $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables
 | No Drift Correction | 36 | 23.2 | - | - | - | - |
 | Path to Target | 16.5 | 60.2 | 64.7 | 17.4 | 44.5 | 40.6 |
 
-## TEST BLOCK                                                                                                                                                           
+## TEST BLOCK                                                                                                                                  
+### Experiment paths ($10$ units $=$ $1$ m)
 <img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" />
 
 *Figure 1: Environment 1 FloorMap*
