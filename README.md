@@ -46,7 +46,7 @@ $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables
 
 ## TEST BLOCK                                                                                                                                  
 ### Experiment paths ($10$ units $=$ $1$ m)
-<img src="assets/PlotColorBasement.png" alt="Enviroment 1" style="width: 500px; height: 500px;" />
+<img src="assets/basement_heat_rewards.png" alt="Enviroment 1" style="width: 500px; height: 500px;" />
 
 *Figure 1: Environment 1 FloorMap*
 
@@ -78,7 +78,7 @@ $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables
 </a>
 
 
-<img src="assets/PlotColor2ndFloor.png" alt="Enviroment 2" style="width: 500px; height: 500px;" />
+<img src="assets/2nd_fl_heat_rewards.png" alt="Enviroment 2" style="width: 500px; height: 500px;" />
                
 *Figure 2: Environment 2 FloorMap*
 
@@ -99,7 +99,7 @@ $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables
 
 </a>
 
-<img src="assets/PlotColor6mtc.png" alt="Enviroment 3" style="width: 500px; height: 500px;" />
+<img src="assets/6mtc_floorplan.png" alt="Enviroment 3" style="width: 500px; height: 500px;" />
                
 *Figure 2: Environment 3 FloorMap*
 
