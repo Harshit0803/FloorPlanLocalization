@@ -1,30 +1,30 @@
 <!--# FloorPlanLocalization-->
-# Blank Slate Localization: Active Global Localization from Arbitrary Locations using Semantic Floor Plans
+# Floor Plan Based Active Global Localization And Navigation Aid For The Visually Impaired
 
 ## 📄 Abstract
 <div align="justify">
-Floor plan based active global localization refers to the problem of localizing an agent in the floor plan while giving it control commands so as to efficiently minimize the localization error and time. It is generally formulated as an optimization problem where the agent's real-time sensor data is matched against the map to minimize a cost function.
-However, most existing methods either assume some {\em a priori} knowledge of the starting position of the agent or consider floor plans that are created using sensors the same as the ones on the agent. In this work, we propose Blank Slate Localization (BSL): a novel methodology for architectural floor plan based active localization for indoor navigation starting from completely unknown initial locations. Semantically aware {\em a priori} map based real-time goals are created for the agent to intelligently explore the local environment while simultaneously constructing a 2D semantic point cloud to globally localize the agent. To account for the time-varying odometry drift, a method is proposed to dynamically correct it based on the floor plan without knowing the global pose of the agent. Furthermore, a novel methodology for real-time bi-directional loop closure has been used. The efficacy of the proposed pipeline has been shown by conducting several experiments on indoor environments. 
+Navigation of an agent, such as a visually impaired person, in an unfamiliar environment poses substantial difficulties, even in scenarios where floor plans are available. It becomes essential to first determine the agent’s pose in the environment. The task grows more complex when the agent must also be provided with commands for environment exploration. This problem of active global localization typically involves finding a transformation to match the agent’s sensor-generated map to the existing floor plan while providing a series of strategic actions for effective exploration. Current methods fall into two categories: learning-based, requiring extensive training for each environment, or non-learning-based, which generally depend on prior knowledge of the agent’s initial position, or use floor plan maps created with the same sensor modality as the agent. Addressing these limitations, we introduce a novel system for real-time, active global localization and navigation for the visually impaired. By generating semantically informed real-time goals, our approach enables local exploration and
+the creation of a 2D semantic point cloud for effective global localization. Moreover, it dynamically corrects for odometry drift using the architectural floor plan, independent of the agent’s global position, and introduces a new method for real-time loop closure on reversal. Our approach’s effectiveness and practicality are validated through multiple real-world indoor experiments, also highlighting its adaptability and ease of extension to any mobile robot.
 </div>
 
 <img src="assets/flow.png" alt="Floor Plan" style="width: 850px; height: 400px;" />
 
 ## 📊 Results
 
-### Mean and standard deviation of the distance traveled (meters) for successful localization
-| Method             | Candidate creation (Mean) | Candidate creation (Std) | Candidate confirmation (Mean) | Candidate confirmation (Std) |
+### Mean and Median of the distance traveled (meters) for successful localization
+| Method             | Candidate creation (Mean) | Candidate creation (Median) | Candidate confirmation (Mean) | Candidate confirmation (Median) |
 |--------------------|--------------------------|---------------------------|-------------------------------|----------------------------|
-| Left wall follower | 13.25                    | 10.55                     | 15.64                         | 11.63                      |
-| Random coin toss   | 15.03                    | 13.96                     | 17.62                         | 15.66                      |
-| Our method         | 11.27                    | 9.31                      | 13.25                         | 10.36                      |
+| Left wall follower | 14.79                    | 11.03                     | 17.36                         | 14.05                      |
+| Random coin toss   | 16.76                    | 11.43                     | 19.53                         | 16.16                      |
+| Our method         | 11.76                    | 9.72                      | 14.14                         | 12.22                      |
 
-### Mean and standard deviation of the distance traveled (meters) from start to target
-| Method                 | Distance travelled (Mean) | Distance travelled (Std) |
+### Mean and Meadian of the distance traveled (meters) from start to target
+| Method                 | Distance travelled (Mean) | Distance travelled (Median) |
 |------------------------|---------------------------|--------------------------|
-| Min. possible distance | 32.92                         | 18.29                        |
-| Left wall follower     | 52.03                     | 20.88                    |
-| Random coin toss       | 51.19                     | 21.78                    |
-| Our method             | 44.97                     | 20.20                    |
+| Min. possible distance | 31.86                     | 28                    |
+| Left wall follower     | 51.58                     | 50.84                    |
+| Random coin toss       | 50.47                     | 51.23                    |
+| Our method             | 44.11                     | 41.45                    |
 
 ## 📑 Abalation Study
 $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables at the end.
@@ -78,7 +78,7 @@ $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables
 </a>
 
 
-<img src="assets/PlotColor2ndFloor.png" alt="Enviroment 1" style="width: 500px; height: 500px;" />
+<img src="assets/PlotColor2ndFloor.png" alt="Enviroment 2" style="width: 500px; height: 500px;" />
                
 *Figure 2: Environment 2 FloorMap*
 
@@ -96,6 +96,22 @@ $R_1=L_4$, $R_2=L_{12}$, $R_3=L_{10}$, $R_4=L_{16}$, $R_5=L_{7}$ from the tables
 | $L_{28}$     | 170                 | 135                 | 219            | 490            | 5.82              | 6.26            |
 | $L_{29}$     | 268                 | 219                 | 219            | 490            | 11.95             | 12.71            |
 | $L_{30}$    | 8                   | 415                 | 219            | 490            | 11.80             | 12.47            |
+
+</a>
+
+<img src="assets/PlotColor6mtc.png" alt="Enviroment 3" style="width: 500px; height: 500px;" />
+               
+*Figure 2: Environment 3 FloorMap*
+
+<a href="#" style="float: right;"> <!-- An anchor tag with a right float style -->
+
+| Index | Starting Point (X) | Starting Point (Y) | End Point (X) | End Point (Y) | Candidate Creation | Candidate Confirmation |
+| ----- | ------------------- | ------------------- | -------------- | -------------- | ------------------ | ------------------ |
+| $L_{31}$     | 25                 | 300                 | 195            | 150            | 20.61              | 24.32            |
+| $L_{32}$     | 70                 | 225                 | 195            | 150            | 0.24              | 0.77            |
+| $L_{33}$     | 275                   | 175                 | 195            | 150            | 12.49              | 22.47            |
+| $L_{34}$     | 305                 | 120                 | 500            | 125             | 25.54              | 32.46             |
+| $L_{35}$     | 655                 | 35                 | 500            | 125             | 14.54             | 17.24            |
 
 </a>
 
